@@ -35,7 +35,7 @@ There are no external triggers when AI detects a match on a object other than tr
 
 9. Secure files as necesary.
 
-### Installation
+### Usage
 
 1. Connect using your browser to http://[your apache ip]:81/blueAI_ui.php
 
