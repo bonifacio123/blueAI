@@ -1,7 +1,7 @@
 # blueAI
 
 A tool that triggers BlueIris security software using the Deepstack AI service to determine if an event is valid or not. This code was inspired by Gentlepumplins AI Tool and neile's docker version. I preferred something simpler that natively ran on the Raspberry Pi. This was created in a few hours to fulfill a need and share in case anyone is interested and wants to make it better.
-There are no external triggers when AI detects a match on a object other than trigger the BlueIris HD camera. You can extend trigger functionality by coding blueAI_triggered.phpThis code is inspired by Gentlepumplins AI Tool and neile's docker version. I preferred something simpler that natively ran on the Raspberry Pi. This was created in a few hours to fulfill a need and share in case anyone is interested and wants to make it better. There are no external triggers when AI detects a match on a object other than trigger the BlueIris HD camera. You can extend trigger functionality by coding blueAI_triggered.php
+There are no external triggers when AI detects a match on a object other than trigger the BlueIris HD camera. You can extend trigger functionality by coding blueAI_triggered.php
 
 ### Installation
 
