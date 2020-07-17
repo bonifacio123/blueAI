@@ -1,0 +1,14 @@
+{
+    "timezone": "America/Chicago",
+    "blueIris": "http://192.168.1.7:81/admin?trigger&camera=@-hd&user=me&pw=mepass",
+    "deepstack": "http://192.168.1.8:80/v1/vision/detection",
+    "aiinput": "/mnt/aiinput",
+    "workdir": "/home/pi/blueAI/inf",
+    "confidence": 40,
+    "alertObjects": "person,bicycle,motorcycle,car,cat,dog,horse,sheep,cow,bear",
+    "uiMaxRows": 200,
+    "uiAutoRefresh": 59,
+    "gmailID": "my email without @gmail.com",
+    "gmailPW": "my email password",
+    "watchdogAlertEmail": "somebody@hotmail.com"
+}
